@@ -1,10 +1,6 @@
 <h1 align="left">Hello World!!</h1><br> <p align="left">🎯 Aspiring AIML Engineer <br>🔥Passionate about building intelligent systems and solving real-world problems through technology.<br>🎓 Computer Science Student with a strong foundation in Artificial Intelligence and Machine Learning.  <br>💡 Interested in Deep Learning, Natural Language Processing, and Data Analysis.  <br>📈 Exploring tools and techniques to deploy scalable machine learning models.</p>
 
-###
 
-<img align="right" height="120" src="https://media.giphy.com/media/pUVOeIagS1rrqsYQJe/giphy.gif?cid=790b7611y7e36hq1wzt3vc6kpvgc86wz85nyvzr3bkyou2fy&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
-
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jeevannnn&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
